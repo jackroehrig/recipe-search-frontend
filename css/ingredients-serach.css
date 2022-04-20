@@ -19,7 +19,7 @@
   font-family: inherit;
   font-weight: 100;
   color: black;
-  background-color: transparent;
+  background-color: rgb(180, 244, 255);
 }
 .add-ingred:hover {
   transform: translateY(-3px);
@@ -121,6 +121,4 @@
 }
 .results h3 {
   font-size: 2rem;
-}
-
-/*# sourceMappingURL=ingredients-search.css.map */
+}/*# sourceMappingURL=ingredients-serach.css.map */
